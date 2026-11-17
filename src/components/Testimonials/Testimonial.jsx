@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Tariqul architected our multi-outlet Restaurant POS & Ordering Suite with Laravel, React, and Electron. Offline KOT printing and real-time cloud sync transformed our daily operations across 7+ restaurants.",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Delivered a complete College & Madrasa ERP system covering online student admissions, automated tuition fee receipts, result processing, and role-based dashboards ahead of schedule.",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Outstanding WordPress & WooCommerce specialist. Built and optimized our US e-commerce storefront with custom payment integration, fast page speeds, and clean responsive design.",
     },
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Reliable full-stack engineer with deep expertise in PHP Laravel, MySQL query optimization, and Linux server administration via CyberPanel, WHM, and Cloudflare.",
     },
   ];
 

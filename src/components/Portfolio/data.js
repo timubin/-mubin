@@ -174,90 +174,90 @@ const data = {
         {
             id: 18,
             img: todoapps,
-            title:"Todo Apps",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Task & Todo Management App",
+            desc: "Interactive JavaScript task management application",
             link:"https://timubin.github.io/book-list/"
         },
         {
             id: 19,
             img: astha,
             title:"Astha Electro Company",
-            desc: "Your daily update of the most played track from around the world..",
-            link:" https://asthaelectrocompany.com/"
+            desc: "Corporate Website — WordPress & Custom Theme",
+            link:"https://asthaelectrocompany.com/"
         },
         {
             id: 20,
             img: arrita,
             title:"Arrita",
-            desc: "Your daily update of the most played track from around the world..",
-            link:" https://arrita.xyz/"
+            desc: "E-Commerce & Brand Portal — WordPress",
+            link:"https://arrita.xyz/"
         },
         {
             id: 21,
             img: travel,
-            title:"Travel",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Travel & Holiday Booking",
+            desc: "PHP Laravel & Bootstrap Travel Portal",
             link :"https://travelagency.eurosia.app"
         },
 
         {
             id: 22,
             img: laravel,
-            title:"Laravel",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Laravel E-Commerce Platform",
+            desc: "Full-Stack PHP Laravel & MySQL E-Commerce",
             link :"https://laravelecom.eurosia.app"
         },
 
         {
             id: 23,
             img: ecommerc,
-            title:"Ecommerce",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Multi-Category Online Store",
+            desc: "E-Commerce Storefront & Inventory System",
             link :"http://ecommerce.eurosia.app/"
         },
         {
             id: 24,
             img: beautycare,
-            title:"Beauty Care",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Beauty Care & Wellness",
+            desc: "Responsive Brand & E-Commerce Website",
             link:"https://beautycare.eurosia.app/"
         },
         {
             id: 25,
             img: restaurant,
-            title:"Restaurant",
-            desc: "Your daily update of the most played track from around the world..",
-            link:"https://restaurant.eurosia.app/"
+            title:"Restaurant POS & Ordering Suite",
+            desc: "PHP Laravel, React.js & Electron POS System",
+            link:"https://eurosiarestaurant.com"
         },
        
         {
             id: 26,
             img: realestate,
-            title:"RealEstate ",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Real Estate Listing Platform",
+            desc: "Property Management & Listing Web App",
             link:"https://realestate.eurosia.app/"
         },
        
         {
             id: 27,
             img: elearning,
-            title:"eLearning ",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"eLearning & LMS Portal",
+            desc: "PHP Laravel School & Learning Management System",
             link:"https://elearning.eurosia.app/"
         },
        
         {
             id: 28,
             img: company,
-            title:"Company",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Enterprise Corporate Portal",
+            desc: "Custom Corporate Web Platform — PHP Laravel",
             link:"https://company.eurosia.app/"
         },
         {
             id: 29,
             img: news,
-            title:"News Paper",
-            desc: "Your daily update of the most played track from around the world..",
+            title:"Online News Portal (e24ghanta)",
+            desc: "Dynamic News & Media Publishing Platform",
             link:"https://e24ghanta.com/"
         },
     ]
